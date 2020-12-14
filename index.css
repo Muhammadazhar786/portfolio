@@ -1,0 +1,12 @@
+.container{
+	border: 5px solid red;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-family: sans-serif;
+	background-color: rgb(199, 37, 37);
+	margin: 0;
+	padding: 0;
+}
